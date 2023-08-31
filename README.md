@@ -1,1 +1,3 @@
-# CSC221_bmcgr009
+CSC221 Fall 2023
+Brady McGrath
+bmcgr009@plattsburgh.edu
